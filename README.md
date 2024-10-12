@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=henriqueferreira04&show_icons=true&theme=radical)
 
 <!--
 **henriqueferreira04/henriqueferreira04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
